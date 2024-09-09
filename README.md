@@ -1,0 +1,6 @@
+# Sistema de Tickets
+--
+
+
+
+"# Patrones" 
